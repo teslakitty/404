@@ -1,5 +1,4 @@
-body{
-
+body {
    background-image: url('404.jpg');
 }
 
@@ -9,6 +8,6 @@ img {
     height: auto;
 }
 
-h1 [
-color: #FFFFFF;
-]
+h1 {
+    color: #FFFFFF;
+}
