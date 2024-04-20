@@ -8,3 +8,7 @@ img {
     max-height: 100vh;
     height: auto;
 }
+
+h1 [
+color: black;
+]
